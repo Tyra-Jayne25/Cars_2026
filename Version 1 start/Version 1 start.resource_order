@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[
     {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"Garage","order":1,"path":"folders/Objects/Garage.yy",},
     {"name":"Rooms","order":3,"path":"folders/Rooms.yy",},
     {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
     {"name":"Car_Parts","order":5,"path":"folders/Sprites/Car_Parts.yy",},
@@ -11,6 +12,7 @@
     {"name":"TileSet","order":4,"path":"folders/TileSet.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Obj_GarageDoor","order":1,"path":"objects/Obj_GarageDoor/Obj_GarageDoor.yy",},
     {"name":"Rm_InsideGarage","order":2,"path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
     {"name":"Rm_Junkyard","order":3,"path":"rooms/Rm_Junkyard/Rm_Junkyard.yy",},
     {"name":"Rm_Outside","order":1,"path":"rooms/Rm_Outside/Rm_Outside.yy",},
