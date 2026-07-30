@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_GarageDoor",
+    "path":"sprites/Spr_GarageDoor/Spr_GarageDoor.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
