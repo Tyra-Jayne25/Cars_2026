@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":3,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Car_Parts","order":5,"path":"folders/Sprites/Car_Parts.yy",},
+    {"name":"Cars","order":4,"path":"folders/Sprites/Cars.yy",},
+    {"name":"Character","order":2,"path":"folders/Sprites/Character.yy",},
+    {"name":"Garage","order":1,"path":"folders/Sprites/Garage.yy",},
+    {"name":"TileSets","order":3,"path":"folders/Sprites/TileSets.yy",},
+    {"name":"TileSet","order":4,"path":"folders/TileSet.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Rm_InsideGarage","order":2,"path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
+    {"name":"Rm_Junkyard","order":3,"path":"rooms/Rm_Junkyard/Rm_Junkyard.yy",},
+    {"name":"Rm_Outside","order":1,"path":"rooms/Rm_Outside/Rm_Outside.yy",},
+    {"name":"Spr_GarageDoor","order":1,"path":"sprites/Spr_GarageDoor/Spr_GarageDoor.yy",},
+    {"name":"spr_junkyard_tiles","order":1,"path":"sprites/spr_junkyard_tiles/spr_junkyard_tiles.yy",},
+    {"name":"Spr_WalkDown","order":3,"path":"sprites/Spr_WalkDown/Spr_WalkDown.yy",},
+    {"name":"Spr_WalkRight","order":1,"path":"sprites/Spr_WalkRight/Spr_WalkRight.yy",},
+    {"name":"Spr_WalkUp","order":2,"path":"sprites/Spr_WalkUp/Spr_WalkUp.yy",},
+    {"name":"ts_junkyard","order":1,"path":"tilesets/ts_junkyard/ts_junkyard.yy",},
+  ],
+}
