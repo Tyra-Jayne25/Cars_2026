@@ -37,6 +37,7 @@
     {"id":{"name":"spr_garage_tiles","path":"sprites/spr_garage_tiles/spr_garage_tiles.yy",},},
     {"id":{"name":"Spr_Garage","path":"sprites/Spr_Garage/Spr_Garage.yy",},},
     {"id":{"name":"Spr_GarageDoor","path":"sprites/Spr_GarageDoor/Spr_GarageDoor.yy",},},
+    {"id":{"name":"Spr_Idle","path":"sprites/Spr_Idle/Spr_Idle.yy",},},
     {"id":{"name":"spr_junkyard_tiles","path":"sprites/spr_junkyard_tiles/spr_junkyard_tiles.yy",},},
     {"id":{"name":"Spr_WalkDown","path":"sprites/Spr_WalkDown/Spr_WalkDown.yy",},},
     {"id":{"name":"Spr_WalkLeft","path":"sprites/Spr_WalkLeft/Spr_WalkLeft.yy",},},
