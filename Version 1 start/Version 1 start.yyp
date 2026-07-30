@@ -32,6 +32,7 @@
   "resources":[
     {"id":{"name":"Obj_Garage","path":"objects/Obj_Garage/Obj_Garage.yy",},},
     {"id":{"name":"Obj_GarageDoor","path":"objects/Obj_GarageDoor/Obj_GarageDoor.yy",},},
+    {"id":{"name":"Obj_Girl","path":"objects/Obj_Girl/Obj_Girl.yy",},},
     {"id":{"name":"Rm_InsideGarage","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},},
     {"id":{"name":"Rm_Junkyard","path":"rooms/Rm_Junkyard/Rm_Junkyard.yy",},},
     {"id":{"name":"Rm_Outside","path":"rooms/Rm_Outside/Rm_Outside.yy",},},
@@ -41,7 +42,6 @@
     {"id":{"name":"Spr_GarageDoor","path":"sprites/Spr_GarageDoor/Spr_GarageDoor.yy",},},
     {"id":{"name":"Spr_Idle","path":"sprites/Spr_Idle/Spr_Idle.yy",},},
     {"id":{"name":"spr_junkyard_tiles","path":"sprites/spr_junkyard_tiles/spr_junkyard_tiles.yy",},},
-    {"id":{"name":"Spr_WalkDown","path":"sprites/Spr_WalkDown/Spr_WalkDown.yy",},},
     {"id":{"name":"Spr_WalkLeft","path":"sprites/Spr_WalkLeft/Spr_WalkLeft.yy",},},
     {"id":{"name":"Spr_WalkRight","path":"sprites/Spr_WalkRight/Spr_WalkRight.yy",},},
     {"id":{"name":"Spr_WalkUp","path":"sprites/Spr_WalkUp/Spr_WalkUp.yy",},},
