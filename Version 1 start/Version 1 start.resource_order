@@ -15,6 +15,7 @@
     {"name":"Rm_Junkyard","order":3,"path":"rooms/Rm_Junkyard/Rm_Junkyard.yy",},
     {"name":"Rm_Outside","order":1,"path":"rooms/Rm_Outside/Rm_Outside.yy",},
     {"name":"Spr_GarageDoor","order":1,"path":"sprites/Spr_GarageDoor/Spr_GarageDoor.yy",},
+    {"name":"Spr_Idle","order":4,"path":"sprites/Spr_Idle/Spr_Idle.yy",},
     {"name":"spr_junkyard_tiles","order":1,"path":"sprites/spr_junkyard_tiles/spr_junkyard_tiles.yy",},
     {"name":"Spr_WalkDown","order":3,"path":"sprites/Spr_WalkDown/Spr_WalkDown.yy",},
     {"name":"Spr_WalkRight","order":1,"path":"sprites/Spr_WalkRight/Spr_WalkRight.yy",},
