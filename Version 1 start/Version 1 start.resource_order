@@ -20,6 +20,7 @@
     {"name":"Spr_GarageDoor","order":1,"path":"sprites/Spr_GarageDoor/Spr_GarageDoor.yy",},
     {"name":"Spr_Idle","order":4,"path":"sprites/Spr_Idle/Spr_Idle.yy",},
     {"name":"spr_junkyard_tiles","order":1,"path":"sprites/spr_junkyard_tiles/spr_junkyard_tiles.yy",},
+    {"name":"Spr_WalkDown","order":5,"path":"sprites/Spr_WalkDown/Spr_WalkDown.yy",},
     {"name":"Spr_WalkRight","order":1,"path":"sprites/Spr_WalkRight/Spr_WalkRight.yy",},
     {"name":"Spr_WalkUp","order":2,"path":"sprites/Spr_WalkUp/Spr_WalkUp.yy",},
     {"name":"ts_junkyard","order":1,"path":"tilesets/ts_junkyard/ts_junkyard.yy",},
