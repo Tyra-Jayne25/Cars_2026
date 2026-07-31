@@ -33,11 +33,5 @@ if vDirection=1
 	image_speed = 1
 }
 
-if place_meeting((x+hSpd),(y+vSpd), collision_tilemap)
-{
-	hSpd=0
-	vSpd=0
-}
-
 x=x+hSpd
 y=y+vSpd
