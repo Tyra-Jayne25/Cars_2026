@@ -10,6 +10,7 @@
   },
   "defaultScriptType":0,
   "Folders":[
+    {"$GMFolder":"","%Name":"Font","folderPath":"folders/Font.yy","name":"Font","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Garage","folderPath":"folders/Objects/Garage.yy","name":"Garage","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Junkyard","folderPath":"folders/Objects/Junkyard.yy","name":"Junkyard","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -32,12 +33,14 @@
   },
   "name":"Version 1 start",
   "resources":[
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"Obj_Game","path":"objects/Obj_Game/Obj_Game.yy",},},
     {"id":{"name":"Obj_Garage","path":"objects/Obj_Garage/Obj_Garage.yy",},},
     {"id":{"name":"Obj_GarageDoor","path":"objects/Obj_GarageDoor/Obj_GarageDoor.yy",},},
     {"id":{"name":"Obj_Girl","path":"objects/Obj_Girl/Obj_Girl.yy",},},
     {"id":{"name":"Obj_Junkyard","path":"objects/Obj_Junkyard/Obj_Junkyard.yy",},},
     {"id":{"name":"Obj_JunkyardGate","path":"objects/Obj_JunkyardGate/Obj_JunkyardGate.yy",},},
-    {"id":{"name":"Object6","path":"objects/Object6/Object6.yy",},},
+    {"id":{"name":"Obj_StartScreen","path":"objects/Obj_StartScreen/Obj_StartScreen.yy",},},
     {"id":{"name":"Rm_InsideGarage","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},},
     {"id":{"name":"Rm_InsideJunkyard","path":"rooms/Rm_InsideJunkyard/Rm_InsideJunkyard.yy",},},
     {"id":{"name":"Rm_Outside","path":"rooms/Rm_Outside/Rm_Outside.yy",},},
