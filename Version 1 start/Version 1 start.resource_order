@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Font","order":5,"path":"folders/Font.yy",},
     {"name":"Objects","order":1,"path":"folders/Objects.yy",},
     {"name":"Garage","order":1,"path":"folders/Objects/Garage.yy",},
     {"name":"Junkyard","order":3,"path":"folders/Objects/Junkyard.yy",},
@@ -14,10 +15,11 @@
     {"name":"TileSet","order":4,"path":"folders/TileSet.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Obj_Game","order":5,"path":"objects/Obj_Game/Obj_Game.yy",},
     {"name":"Obj_GarageDoor","order":1,"path":"objects/Obj_GarageDoor/Obj_GarageDoor.yy",},
     {"name":"Obj_Girl","order":2,"path":"objects/Obj_Girl/Obj_Girl.yy",},
     {"name":"Obj_JunkyardGate","order":1,"path":"objects/Obj_JunkyardGate/Obj_JunkyardGate.yy",},
-    {"name":"Object6","order":4,"path":"objects/Object6/Object6.yy",},
+    {"name":"Obj_StartScreen","order":4,"path":"objects/Obj_StartScreen/Obj_StartScreen.yy",},
     {"name":"Rm_InsideGarage","order":2,"path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
     {"name":"Rm_InsideJunkyard","order":3,"path":"rooms/Rm_InsideJunkyard/Rm_InsideJunkyard.yy",},
     {"name":"Rm_Outside","order":1,"path":"rooms/Rm_Outside/Rm_Outside.yy",},
