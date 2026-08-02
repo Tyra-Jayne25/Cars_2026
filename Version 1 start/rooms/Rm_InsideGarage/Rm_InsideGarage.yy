@@ -7,17 +7,15 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_471371E7","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
-    {"name":"inst_76DD1290","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
+    {"name":"inst_6B31E021","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
   ],
   "isDnd":false,
   "layers":[
-    {"$GMRInstanceLayer":"","%Name":"Inst_Girl","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_76DD1290","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_76DD1290","objectId":{"name":"Obj_Girl","path":"objects/Obj_Girl/Obj_Girl.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":224.0,},
-      ],"layers":[],"name":"Inst_Girl","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRInstanceLayer":"","%Name":"Inst_GarageDoor","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+    {"$GMRInstanceLayer":"","%Name":"Inst_GarageDoor","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_471371E7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":0.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_471371E7","objectId":{"name":"Obj_GarageDoor","path":"objects/Obj_GarageDoor/Obj_GarageDoor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.7360001,"scaleY":1.12,"x":720.0,"y":104.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6B31E021","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6B31E021","objectId":{"name":"Obj_Game","path":"objects/Obj_Game/Obj_Game.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":96.0,},
       ],"layers":[],"name":"Inst_GarageDoor","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRTileLayer":"","%Name":"Tile_walls","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_walls","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
+    {"$GMRTileLayer":"","%Name":"Tile_walls","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_walls","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
           -201,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,
           -40,0,-46,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,-14,0,-26,532,-46,-2147483648,-13,
           0,3,631,583,584,-23,581,2,582,632,-45,-2147483648,-13,0,2,631,632,-24,0,2,631,632,-45,-2147483648,-13,
@@ -41,7 +39,7 @@
           240,-45,-2147483648,-14,0,-26,579,-46,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,-40,0,
           -533,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"ts_garage","path":"tilesets/ts_garage/ts_garage.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRTileLayer":"","%Name":"Tile_extra","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_extra","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
+    {"$GMRTileLayer":"","%Name":"Tile_extra","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_extra","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
           -1265,-2147483648,6,701,702,-2147483648,74,75,76,-80,-2147483648,6,750,751,-2147483648,123,124,125,-235,
           -2147483648,2,589,590,-84,-2147483648,2,638,639,-83,-2147483648,3,0,687,688,-83,-2147483648,-3,0,-84,
           -2147483648,-2,0,-83,-2147483648,-3,0,-83,-2147483648,3,0,602,603,-83,-2147483648,3,0,651,652,-83,-2147483648,
@@ -51,7 +49,7 @@
           1,0,-23,-2147483648,2,1250,1251,-84,-2147483648,-2,0,-84,-2147483648,-2,0,-84,-2147483648,-2,0,-84,-2147483648,
           -2,0,-84,-2147483648,2,1737,0,-791,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"ts_furniture","path":"tilesets/ts_furniture/ts_furniture.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRTileLayer":"","%Name":"Tile_furniture","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_furniture","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
+    {"$GMRTileLayer":"","%Name":"Tile_furniture","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_furniture","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
           -992,-2147483648,4,1612,1613,1856,1857,-80,-2147483648,6,1511,1512,1661,1662,1905,1906,-13,-2147483648,
           6,0,-2147483648,-2147483648,1018,1019,1020,-61,-2147483648,8,1560,1561,1710,1711,1954,1955,723,724,-11,
           -2147483648,-3,0,3,1067,1068,1069,-60,-2147483648,9,297,298,299,300,301,302,303,772,773,-10,-2147483648,
@@ -76,7 +74,7 @@
           1841,-77,-2147483648,9,1885,1886,1886,1887,1886,1887,1888,1889,1890,-77,-2147483648,9,1934,1935,1935,
           1936,1935,1936,1937,1938,1939,-1143,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"ts_furniture","path":"tilesets/ts_furniture/ts_furniture.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRTileLayer":"","%Name":"Tile_Background","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_Background","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
+    {"$GMRTileLayer":"","%Name":"Tile_Background","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_Background","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
           -35,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,
           -40,0,-46,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,-40,0,-46,-2147483648,
           -40,0,-46,-2147483648,-8,0,26,1276,1277,1278,1279,1276,1277,1278,1279,1276,1277,1278,1279,1276,1277,
@@ -125,8 +123,8 @@
           -39,0,-47,-2147483648,-39,0,-47,-2147483648,-39,0,-47,-2147483648,-39,0,-47,-2147483648,-39,0,-47,-2147483648,
           -39,0,-6,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"ts_garage","path":"tilesets/ts_garage/ts_garage.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[],"depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[],"depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"Rm_InsideGarage",
   "parent":{
