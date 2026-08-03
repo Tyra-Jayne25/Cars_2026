@@ -41,6 +41,7 @@
     {"id":{"name":"Obj_Junkyard","path":"objects/Obj_Junkyard/Obj_Junkyard.yy",},},
     {"id":{"name":"Obj_JunkyardGate","path":"objects/Obj_JunkyardGate/Obj_JunkyardGate.yy",},},
     {"id":{"name":"Obj_StartScreen","path":"objects/Obj_StartScreen/Obj_StartScreen.yy",},},
+    {"id":{"name":"Rm_GarageUpgrade","path":"rooms/Rm_GarageUpgrade/Rm_GarageUpgrade.yy",},},
     {"id":{"name":"Rm_InsideGarage","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},},
     {"id":{"name":"Rm_InsideJunkyard","path":"rooms/Rm_InsideJunkyard/Rm_InsideJunkyard.yy",},},
     {"id":{"name":"Rm_Outside","path":"rooms/Rm_Outside/Rm_Outside.yy",},},
@@ -66,6 +67,7 @@
     {"roomId":{"name":"Rm_Outside","path":"rooms/Rm_Outside/Rm_Outside.yy",},},
     {"roomId":{"name":"Rm_InsideGarage","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},},
     {"roomId":{"name":"Rm_InsideJunkyard","path":"rooms/Rm_InsideJunkyard/Rm_InsideJunkyard.yy",},},
+    {"roomId":{"name":"Rm_GarageUpgrade","path":"rooms/Rm_GarageUpgrade/Rm_GarageUpgrade.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
