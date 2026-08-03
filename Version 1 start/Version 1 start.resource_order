@@ -20,6 +20,7 @@
     {"name":"Obj_Girl","order":2,"path":"objects/Obj_Girl/Obj_Girl.yy",},
     {"name":"Obj_JunkyardGate","order":1,"path":"objects/Obj_JunkyardGate/Obj_JunkyardGate.yy",},
     {"name":"Obj_StartScreen","order":4,"path":"objects/Obj_StartScreen/Obj_StartScreen.yy",},
+    {"name":"Rm_GarageUpgrade","order":4,"path":"rooms/Rm_GarageUpgrade/Rm_GarageUpgrade.yy",},
     {"name":"Rm_InsideGarage","order":2,"path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
     {"name":"Rm_InsideJunkyard","order":3,"path":"rooms/Rm_InsideJunkyard/Rm_InsideJunkyard.yy",},
     {"name":"Rm_Outside","order":1,"path":"rooms/Rm_Outside/Rm_Outside.yy",},
