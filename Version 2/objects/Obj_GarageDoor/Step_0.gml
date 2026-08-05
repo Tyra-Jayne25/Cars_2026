@@ -1,3 +1,4 @@
+
 // Player is close enough to use the door
 if (distance_to_object(Obj_Girl) < 40)
 {
