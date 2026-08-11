@@ -34,6 +34,7 @@
   "name":"Version 2",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"Obj_car1","path":"objects/Obj_car1/Obj_car1.yy",},},
     {"id":{"name":"Obj_carslot1","path":"objects/Obj_carslot1/Obj_carslot1.yy",},},
     {"id":{"name":"Obj_carslot2","path":"objects/Obj_carslot2/Obj_carslot2.yy",},},
     {"id":{"name":"Obj_furniture","path":"objects/Obj_furniture/Obj_furniture.yy",},},
