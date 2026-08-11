@@ -15,6 +15,7 @@
     {"name":"TileSet","order":4,"path":"folders/TileSet.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Obj_car1","order":5,"path":"objects/Obj_car1/Obj_car1.yy",},
     {"name":"Obj_carslot1","order":2,"path":"objects/Obj_carslot1/Obj_carslot1.yy",},
     {"name":"Obj_carslot2","order":3,"path":"objects/Obj_carslot2/Obj_carslot2.yy",},
     {"name":"Obj_furniture","order":4,"path":"objects/Obj_furniture/Obj_furniture.yy",},
