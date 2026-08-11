@@ -8,8 +8,8 @@
   "instanceCreationOrder":[
     {"name":"inst_31D1019F","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
     {"name":"inst_8103C4C","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
-    {"name":"inst_316F8849","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
     {"name":"inst_7D6D8F6C","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
+    {"name":"inst_316F8849","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -17,7 +17,7 @@
         {"$GMRInstance":"v4","%Name":"inst_31D1019F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_31D1019F","objectId":{"name":"Obj_GarageDoor","path":"objects/Obj_GarageDoor/Obj_GarageDoor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.128,"scaleY":1.16,"x":415.0,"y":-14.0,},
         {"$GMRInstance":"v4","%Name":"inst_8103C4C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_8103C4C","objectId":{"name":"Obj_carslot1","path":"objects/Obj_carslot1/Obj_carslot1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2418137,"scaleY":1.0980092,"x":80.0,"y":-133.0,},
         {"$GMRInstance":"v4","%Name":"inst_316F8849","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_316F8849","objectId":{"name":"Obj_carslot2","path":"objects/Obj_carslot2/Obj_carslot2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2418137,"scaleY":1.0980092,"x":288.0,"y":-133.0,},
-        {"$GMRInstance":"v4","%Name":"inst_7D6D8F6C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D6D8F6C","objectId":{"name":"Obj_Girl","path":"objects/Obj_Girl/Obj_Girl.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.68,"scaleY":0.6701031,"x":704.0,"y":192.0,},
+        {"$GMRInstance":"v4","%Name":"inst_7D6D8F6C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D6D8F6C","objectId":{"name":"Obj_Girl","path":"objects/Obj_Girl/Obj_Girl.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.3809346,"scaleY":0.31322575,"x":704.0,"y":192.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tile_equipment","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_equipment","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
           -652,-2147483648,9,798,799,702,74,75,76,-2147483648,-2147483648,0,-59,-2147483648,2,798,799,-16,-2147483648,
