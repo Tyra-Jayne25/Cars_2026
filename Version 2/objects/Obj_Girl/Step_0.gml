@@ -38,9 +38,7 @@ if (vDirection == 1)
 }
 
 
-// Movement
+//Movement
 
 x += hSpd
 y += vSpd
-
-
