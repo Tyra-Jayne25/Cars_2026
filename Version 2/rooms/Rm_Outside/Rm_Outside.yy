@@ -135,7 +135,7 @@
           3399,3393,3394,3395,3396,3397,3398,3399,3399,3395,3396,3397,3398,699,700,701,3393,3394,3395,3396,3397,
           3398,3399,3393,3394,3395,3396,3397,3398,3399,3393,3394,3395,3396,3397,3398,3399,3393,3394,3395,3396,
           3397,3398,3399,3393,3394,
-        ],"TileDataFormat":1,},"tilesetId":{"name":"ts_junkyard","path":"tilesets/ts_junkyard/ts_junkyard.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+        ],"TileDataFormat":1,},"tilesetId":{"name":"ts_junkyardFence","path":"tilesets/ts_junkyardFence/ts_junkyardFence.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"Tile_Junkyard_outside","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_Junkyard_outside","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
           2524,351,352,353,354,355,356,357,358,359,360,348,349,350,351,352,353,354,355,356,357,358,359,360,348,
           349,350,351,352,353,354,355,356,357,358,359,360,348,349,350,351,352,353,354,355,356,357,358,359,360,
