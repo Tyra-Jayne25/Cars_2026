@@ -54,7 +54,7 @@
           1635,1634,1634,1635,1629,1630,1631,1632,1635,1634,1635,1634,1635,1634,1633,1634,1635,1636,1637,-17,0,
           9,1629,1630,1631,1632,1633,1634,1633,1634,1635,-60,-2147483648,2,0,-2147483648,-15,0,-20,-2147483648,
           1,1503,-50,-2147483648,-4,0,1,-2147483648,-5,0,-81,-2147483648,-4,0,-3025,-2147483648,
-        ],"TileDataFormat":1,},"tilesetId":{"name":"ts_junkyard","path":"tilesets/ts_junkyard/ts_junkyard.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+        ],"TileDataFormat":1,},"tilesetId":{"name":"ts_junkyardFence","path":"tilesets/ts_junkyardFence/ts_junkyardFence.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"Tile_junkyard_background","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_junkyard_background","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileSerialiseData":[
           708,709,710,711,712,713,714,715,706,707,708,709,710,711,712,713,714,715,706,707,708,709,710,711,712,
           713,714,715,803,804,805,806,706,707,708,709,710,711,712,713,714,715,706,707,708,709,710,711,712,713,
