@@ -1,6 +1,6 @@
+// Car starts in the junkyard
 in_garage = false
 
-if (room == Rm_InsideGarage)
-{
-    in_garage = true
-}
+// Keep the car still on its first frame
+image_index = 0
+image_speed = 0
