@@ -10,7 +10,6 @@
     {"name":"inst_8103C4C","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
     {"name":"inst_7D6D8F6C","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
     {"name":"inst_316F8849","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
-    {"name":"inst_5B8BEB52","path":"rooms/Rm_InsideGarage/Rm_InsideGarage.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -19,7 +18,6 @@
         {"$GMRInstance":"v4","%Name":"inst_8103C4C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_8103C4C","objectId":{"name":"Obj_carplot1","path":"objects/Obj_carplot1/Obj_carplot1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2418137,"scaleY":1.0980092,"x":80.0,"y":-133.0,},
         {"$GMRInstance":"v4","%Name":"inst_316F8849","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_316F8849","objectId":{"name":"Obj_carplot2","path":"objects/Obj_carplot2/Obj_carplot2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2418137,"scaleY":1.0980092,"x":288.0,"y":-133.0,},
         {"$GMRInstance":"v4","%Name":"inst_7D6D8F6C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D6D8F6C","objectId":{"name":"Obj_Girl","path":"objects/Obj_Girl/Obj_Girl.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.4180674,"scaleY":0.3652703,"x":704.0,"y":192.0,},
-        {"$GMRInstance":"v4","%Name":"inst_5B8BEB52","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5B8BEB52","objectId":{"name":"Obj_Mustang","path":"objects/Obj_Mustang/Obj_Mustang.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.6363636,"scaleY":0.56659144,"x":553.0,"y":217.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tile_equipment","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_equipment","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
           -652,-2147483648,9,798,799,702,74,75,76,-2147483648,-2147483648,0,-59,-2147483648,2,798,799,-16,-2147483648,
