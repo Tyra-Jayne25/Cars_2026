@@ -6,9 +6,24 @@ if (global.car_moving)
     if (room == Rm_InsideGarage)
     {
 
-        // FIND THE ACTUAL PLOT INSTANCES
-        var plot1 = instance_find(Obj_carplot1, 0)
-        var plot2 = instance_find(Obj_carplot2, 0)
+        //PLOT POSITIONS
+		
+        var car_x = 0
+        var car_y = 0
+
+        // PLOT 1
+        if (global.selected_plot == 1)
+        {
+            car_x = 288
+            car_y = -133
+        }
+
+        // PLOT 2
+        else if (global.selected_plot == 2)
+        {
+            car_x = 80
+            car_y = -133
+        }
 		
         // CREATE THE SELECTED CAR
         if (global.selected_plot == 1)
@@ -18,8 +33,8 @@ if (global.car_moving)
                 if (global.selected_car == "Mustang")
                 {
                     instance_create_layer(
-                        plot1.x,
-                        plot1.y,
+                         car_x,
+						 car_y,
                         "Instances",
                         Obj_Mustang
                     )
@@ -28,8 +43,8 @@ if (global.car_moving)
                 else if (global.selected_car == "Silvia")
                 {
                     instance_create_layer(
-                        plot1.x,
-                        plot1.y,
+                        car_x,
+						car_y,
                         "Instances",
                         Obj_Silvia
                     )
@@ -38,8 +53,8 @@ if (global.car_moving)
                 else if (global.selected_car == "Supra")
                 {
                     instance_create_layer(
-                        plot1.x,
-                        plot1.y,
+                        car_x,
+						car_y,
                         "Instances",
                         Obj_Supra
                     )
@@ -48,8 +63,8 @@ if (global.car_moving)
                 else if (global.selected_car == "Camaro")
                 {
                     instance_create_layer(
-                        plot1.x,
-                        plot1.y,
+                        car_x,
+						car_y,
                         "Instances",
                         Obj_Camaro
                     )
