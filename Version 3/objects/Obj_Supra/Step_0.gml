@@ -11,7 +11,7 @@ if (!in_garage)
     if (distance_to_object(Obj_Girl) < 50)
     {
         // Press C to move the car
-        if (keyboard_check_pressed(ord("C")))
+        if (keyboard_check_pressed(ord("S")))
         {
             // Make sure another car
             // isn't currently being moved
@@ -58,4 +58,3 @@ if (!in_garage)
             }
         }
     }
-}
