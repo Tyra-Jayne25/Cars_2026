@@ -1,37 +1,59 @@
-// Keep the car still until it is restored
+// Keep the car still
 image_speed = 0
 image_index = 0
 
-// Only allow the car to be selected if it is not already in the garage
+
+// Only allow the player to select
+// the car while it is in the junkyard
 if (!in_garage)
 {
-    // Player must be close to the car
+    // Check if the player is close enough
     if (distance_to_object(Obj_Girl) < 50)
     {
         // Press C to move the car
         if (keyboard_check_pressed(ord("C")))
         {
-            // Check if Plot 1 exists
-            if (instance_exists(Obj_CarPlot1))
+            // Make sure another car
+            // isn't currently being moved
+            if (!global.car_moving)
             {
-                if (!Obj_CarPlot1.occupied)
+                // -----------------------------
+                // TRY CAR PLOT 1
+                // -----------------------------
+
+                if (!global.plot1_occupied)
                 {
                     global.selected_car = "Silvia"
                     global.selected_plot = 1
                     global.car_moving = true
 
+                    global.plot1_occupied = true
+
                     room_goto(Rm_InsideGarage)
                 }
-                else if (instance_exists(Obj_CarPlot2))
-                {
-                    if (!Obj_CarPlot2.occupied)
-                    {
-                        global.selected_car = "Silvia"
-                        global.selected_plot = 2
-                        global.car_moving = true
 
-                        room_goto(Rm_InsideGarage)
-                    }
+                // -----------------------------
+                // TRY CAR PLOT 2
+                // -----------------------------
+
+                else if (!global.plot2_occupied)
+                {
+                    global.selected_car = "Silvia"
+                    global.selected_plot = 2
+                    global.car_moving = true
+
+                    global.plot2_occupied = true
+
+                    room_goto(Rm_InsideGarage)
+                }
+
+                // -----------------------------
+                // BOTH PLOTS ARE FULL
+                // -----------------------------
+
+                else
+                {
+                    // Nothing happens
                 }
             }
         }
