@@ -2,59 +2,36 @@
 image_speed = 0
 image_index = 0
 
+// SUPRA - PRESS U TO MOVE TO GARAGE
 
-// Only allow the player to select
-// the car while it is in the junkyard
-if (!in_garage)
+if (room == Rm_InsideJunkyard)
 {
-    // Check if the player is close enough
     if (distance_to_object(Obj_Girl) < 50)
     {
-        // Press C to move the car
-        if (keyboard_check_pressed(ord("S")))
+        if (keyboard_check_pressed(ord("U")))
         {
-            // Make sure another car
-            // isn't currently being moved
-            if (!global.car_moving)
+			
+            // CHECK WHICH GARAGE PLOT IS FREE
+
+            if (!global.plot1_occupied)
             {
-                // -----------------------------
-                // TRY CAR PLOT 1
-                // -----------------------------
+                global.selected_car = "Supra"
+                global.selected_plot = 1
+                global.plot1_occupied = true
+                global.car_moving = true
 
-                if (!global.plot1_occupied)
-                {
-                    global.selected_car = "Supra"
-                    global.selected_plot = 1
-                    global.car_moving = true
+                room_goto(Rm_InsideGarage)
+            }
 
-                    global.plot1_occupied = true
-
-                    room_goto(Rm_InsideGarage)
-                }
-
-                // -----------------------------
-                // TRY CAR PLOT 2
-                // -----------------------------
-
-                else if (!global.plot2_occupied)
-                
-                    global.selected_car = "Supra"
-                    global.selected_plot = 2
-                    global.car_moving = true
-
-                    global.plot2_occupied = true
-
-                    room_goto(Rm_InsideGarage)
-                }
-
-                // -----------------------------
-                // BOTH PLOTS ARE FULL
-                // -----------------------------
-
-                else
-                {
-                    // Nothing happens
-                }
+            else if (!global.plot2_occupied)
+            {
+                global.selected_car = "Supra"
+                global.selected_plot = 2
+                global.plot2_occupied = true
+                global.car_moving = true
+				
+                room_goto(Rm_InsideGarage)
             }
         }
     }
+}
