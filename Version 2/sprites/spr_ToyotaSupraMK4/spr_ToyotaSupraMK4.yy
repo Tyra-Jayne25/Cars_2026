@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"spr_ToyotaSupraMK4",
   "bboxMode":0,
-  "bbox_bottom":0,
+  "bbox_bottom":440,
   "bbox_left":0,
-  "bbox_right":0,
+  "bbox_right":212,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,23 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"716e56e0-de86-473e-9d60-3ae0cf3228a4","name":"716e56e0-de86-473e-9d60-3ae0cf3228a4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c9fe0041-c62e-496e-9464-0b1fe887ed45","name":"c9fe0041-c62e-496e-9464-0b1fe887ed45","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4fb6fe12-4a46-4c44-85c5-697e3668ae5e","name":"4fb6fe12-4a46-4c44-85c5-697e3668ae5e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"86fd30ea-50ba-4e02-a093-961ba66ef838","name":"86fd30ea-50ba-4e02-a093-961ba66ef838","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d0c72284-a005-4bde-85b4-0674f15a25fa","name":"d0c72284-a005-4bde-85b4-0674f15a25fa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2b205339-e978-4853-9328-d605d0ae1853","name":"2b205339-e978-4853-9328-d605d0ae1853","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9f111481-6785-49a8-9aee-6d7b99fbaf15","name":"9f111481-6785-49a8-9aee-6d7b99fbaf15","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5815828f-653a-471d-8a9d-b3ae8f94122e","name":"5815828f-653a-471d-8a9d-b3ae8f94122e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fda608d3-3be9-4161-a380-7ebb18a4e7c9","name":"fda608d3-3be9-4161-a380-7ebb18a4e7c9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"bf4ed6ee-f661-44f3-ab8b-9703fb9aae65","name":"bf4ed6ee-f661-44f3-ab8b-9703fb9aae65","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"378bc08a-ba12-4eee-aa00-c1b830ea1376","name":"378bc08a-ba12-4eee-aa00-c1b830ea1376","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":443,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"7239415f-fa1f-477a-8206-42e8b11db614","blendMode":0,"displayName":"default","isLocked":false,"name":"7239415f-fa1f-477a-8206-42e8b11db614","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"4b29ae0f-3661-4a8a-be50-04a2bb8bbcb6","blendMode":0,"displayName":"default","isLocked":false,"name":"4b29ae0f-3661-4a8a-be50-04a2bb8bbcb6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_ToyotaSupraMK4",
   "nineSlice":null,
@@ -49,7 +58,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":10.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +68,7 @@
     },
     "name":"spr_ToyotaSupraMK4",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":5.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +78,35 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"716e56e0-de86-473e-9d60-3ae0cf3228a4","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9b812501-108e-4811-bd33-a3f9e3b6bcf5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c9fe0041-c62e-496e-9464-0b1fe887ed45","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2d4956c6-a474-4b17-9b38-d6dad4fa7292","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4fb6fe12-4a46-4c44-85c5-697e3668ae5e","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7e93b2cd-7d0a-4c8f-86ac-89ed9ece737c","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"86fd30ea-50ba-4e02-a093-961ba66ef838","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"69b950e5-d426-4c80-ad0c-1745b5434c52","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d0c72284-a005-4bde-85b4-0674f15a25fa","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"49c353d3-5a93-4844-87ad-43ec15f27179","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2b205339-e978-4853-9328-d605d0ae1853","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"6ca53f0e-8a9c-47d7-975b-22743deca9c3","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9f111481-6785-49a8-9aee-6d7b99fbaf15","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8c2a0204-f4ac-4dfe-abe3-66de793f21ea","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5815828f-653a-471d-8a9d-b3ae8f94122e","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"1d8cac7d-fde2-46df-8b87-dde1b9eb9620","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fda608d3-3be9-4161-a380-7ebb18a4e7c9","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b3ab1d14-04e6-41fc-86c1-1c88ab07b92b","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bf4ed6ee-f661-44f3-ab8b-9703fb9aae65","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c0ea45e8-b014-4fcd-a292-ca8792e512c5","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"378bc08a-ba12-4eee-aa00-c1b830ea1376","path":"sprites/spr_ToyotaSupraMK4/spr_ToyotaSupraMK4.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b027b6c5-162e-488e-a0a8-c151fed71585","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +122,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":213,
 }
