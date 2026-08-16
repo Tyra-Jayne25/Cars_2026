@@ -38,3 +38,12 @@ if (global.car_moving)
     }
     else if (global.selected_car == "Silvia")
     {
+		        instance_create_layer(car_x, car_y, "Instances", Obj_Silvia)
+    }
+    else if (global.selected_car == "Camaro")
+    {
+        instance_create_layer(car_x, car_y, "Instances", Obj_Camaro)
+    }
+
+    global.car_moving = false
+}
