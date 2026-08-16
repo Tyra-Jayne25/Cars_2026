@@ -1,0 +1,15 @@
+// Settings
+target_room = Rm_Outside
+detection_radius = 32
+
+//Internal State
+is_open = false
+show_ui = false
+
+// Door is not opening
+opening = false
+
+//Freeze sprite animation at frame 0 (Closed)
+// Door starts closed
+image_index = 0
+image_speed = 0
