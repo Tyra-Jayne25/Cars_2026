@@ -1,41 +1,111 @@
-// Only run this when entering the garage
-if (room == Rm_InsideGarage)
+// CAR TRANSFER INTO GARAGE
+
+if (global.car_moving)
 {
-    // Check if a car has been selected
-    if (global.selected_car != noone)
+    // Only do this when entering the garage
+    if (room == Rm_InsideGarage)
     {
-        // Find the two car plots in the garage
+
+        // FIND THE ACTUAL PLOT INSTANCES
         var plot1 = instance_find(Obj_carplot1, 0)
         var plot2 = instance_find(Obj_carplot2, 0)
-
-        // Put selected car on Plot 1
-        if (global.selected_plot == 1 && plot1 != noone)
+		
+        // CREATE THE SELECTED CAR
+        if (global.selected_plot == 1)
         {
-            instance_create_layer(
-                plot1.x,
-                plot1.y,
-                "Instances",
-                global.selected_car
-            )
+            if (instance_exists(plot1))
+            {
+                if (global.selected_car == "Mustang")
+                {
+                    instance_create_layer(
+                        plot1.x,
+                        plot1.y,
+                        "Instances",
+                        Obj_Mustang
+                    )
+                }
 
-            global.plot1_occupied = true
+                else if (global.selected_car == "Silvia")
+                {
+                    instance_create_layer(
+                        plot1.x,
+                        plot1.y,
+                        "Instances",
+                        Obj_Silvia
+                    )
+                }
+
+                else if (global.selected_car == "Supra")
+                {
+                    instance_create_layer(
+                        plot1.x,
+                        plot1.y,
+                        "Instances",
+                        Obj_Supra
+                    )
+                }
+
+                else if (global.selected_car == "Camaro")
+                {
+                    instance_create_layer(
+                        plot1.x,
+                        plot1.y,
+                        "Instances",
+                        Obj_Camaro
+                    )
+                }
+            }
         }
 
-        // Put selected car on Plot 2
-        else if (global.selected_plot == 2 && plot2 != noone)
+        // PLOT 2
+        else if (global.selected_plot == 2)
         {
-            instance_create_layer(
-                plot2.x,
-                plot2.y,
-                "Instances",
-                global.selected_car
-            )
+            if (instance_exists(plot2))
+            {
+                if (global.selected_car == "Mustang")
+                {
+                    instance_create_layer(
+                        plot2.x,
+                        plot2.y,
+                        "Instances",
+                        Obj_Mustang
+                    )
+                }
 
-            global.plot2_occupied = true
+                else if (global.selected_car == "Silvia")
+                {
+                    instance_create_layer(
+                        plot2.x,
+                        plot2.y,
+                        "Instances",
+                        Obj_Silvia
+                    )
+                }
+
+                else if (global.selected_car == "Supra")
+                {
+                    instance_create_layer(
+                        plot2.x,
+                        plot2.y,
+                        "Instances",
+                        Obj_Supra
+                    )
+                }
+
+                else if (global.selected_car == "Camaro")
+                {
+                    instance_create_layer(
+                        plot2.x,
+                        plot2.y,
+                        "Instances",
+                        Obj_Camaro
+                    )
+                }
+            }
         }
 
-        // Clear the selection after placing the car
-        global.selected_car = noone
-        global.selected_plot = 0
+        // TRANSFER FINISHED
+		global.car_moving = false
+        global.selected_car = ""
     }
 }
