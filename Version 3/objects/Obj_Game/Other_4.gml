@@ -80,8 +80,8 @@ if (global.car_moving)
                 if (global.selected_car == "Mustang")
                 {
                     instance_create_layer(
-                        plot2.x,
-                        plot2.y,
+                        car_x,
+						car_y,
                         "Instances",
                         Obj_Mustang
                     )
@@ -90,8 +90,8 @@ if (global.car_moving)
                 else if (global.selected_car == "Silvia")
                 {
                     instance_create_layer(
-                        plot2.x,
-                        plot2.y,
+                        car_x,
+						car_y,
                         "Instances",
                         Obj_Silvia
                     )
@@ -100,8 +100,8 @@ if (global.car_moving)
                 else if (global.selected_car == "Supra")
                 {
                     instance_create_layer(
-                        plot2.x,
-                        plot2.y,
+                        car_x,
+						car_y,
                         "Instances",
                         Obj_Supra
                     )
@@ -110,8 +110,8 @@ if (global.car_moving)
                 else if (global.selected_car == "Camaro")
                 {
                     instance_create_layer(
-                        plot2.x,
-                        plot2.y,
+                        car_x,
+						car_y,
                         "Instances",
                         Obj_Camaro
                     )
