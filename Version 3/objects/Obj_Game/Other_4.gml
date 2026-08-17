@@ -38,7 +38,7 @@ if (global.car_moving)
             instance_create_layer(
                 car_x,
                 car_y,
-                "Instances",
+                "Cars",
                 Obj_Mustang
             )
         }
@@ -48,7 +48,7 @@ if (global.car_moving)
             instance_create_layer(
                 car_x,
                 car_y,
-                "Instances",
+                "Cars",
                 Obj_Silvia
             )
         }
@@ -58,7 +58,7 @@ if (global.car_moving)
             instance_create_layer(
                 car_x,
                 car_y,
-                "Instances",
+                "Cars",
                 Obj_Supra
             )
         }
@@ -68,7 +68,7 @@ if (global.car_moving)
             instance_create_layer(
                 car_x,
                 car_y,
-                "Instances",
+                "Cars",
                 Obj_Camaro
             )
         }
