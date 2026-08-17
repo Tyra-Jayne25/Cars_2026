@@ -45,19 +45,20 @@ if (room == Rm_InsideJunkyard)
         }
     }
 
-// Press R to restore the car
+// =============================
+// PRESS R TO RESTORE
+// =============================
+
 if (keyboard_check_pressed(ord("R")))
 {
-    // Move to the next restoration stage
-    restoration_stage += 1
-
-    // Change to the matching car sprite frame
-    image_index = restoration_stage;
-
-    // Stop at the final restoration frame
-    if (restoration_stage >= image_number - 1)
+    // Move to the next restoration frame
+    if (restoration_stage < image_number - 1)
     {
-        restoration_stage = image_number - 1
+        restoration_stage += 1
+
         image_index = restoration_stage
+
+        // Make absolutely sure the sprite stays on this frame
+        image_speed = 0
     }
 }
