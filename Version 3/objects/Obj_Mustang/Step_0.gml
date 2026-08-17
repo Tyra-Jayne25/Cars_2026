@@ -6,8 +6,20 @@ if (room == Rm_InsideJunkyard)
 {
     if (distance_to_object(Obj_Girl) < 50)
     {
-        if (keyboard_check_pressed(ord("M")))
-        {
+		if (keyboard_check_pressed(ord("M")))
+{
+    // Tell the game which car was selected
+    global.selected_car = "Mustang"
+
+    // Tell the game which plot to use
+    global.selected_plot = 1
+
+    // Tell the game the car is being transferred
+    global.car_moving = true
+
+    // Remove this Mustang from the junkyard
+    instance_destroy()
+}
 
             // CHECK WHICH GARAGE PLOT IS FREE
 
@@ -32,4 +44,3 @@ if (room == Rm_InsideJunkyard)
             }
         }
     }
-}
