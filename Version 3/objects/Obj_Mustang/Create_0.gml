@@ -8,9 +8,15 @@ image_speed = 0
 image_xscale = 0.55
 image_yscale = 0.55
 
-// Restoration settings
+// =============================
+// CAR RESTORATION
+// =============================
+
 restoration_stage = 0
 
-// Keep the car on the first damaged frame
+// Start on the first damaged frame
 image_index = 0
+
+// Do NOT automatically animate
 image_speed = 0
+
