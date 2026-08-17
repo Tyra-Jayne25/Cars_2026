@@ -44,21 +44,4 @@ if (room == Rm_InsideJunkyard)
             }
         }
     }
-
-// =============================
-// PRESS R TO RESTORE
-// =============================
-
-if (keyboard_check_pressed(ord("R")))
-{
-    // Move to the next restoration frame
-    if (restoration_stage < image_number - 1)
-    {
-        restoration_stage += 1
-
-        image_index = restoration_stage
-
-        // Make absolutely sure the sprite stays on this frame
-        image_speed = 0
-    }
-}
+	
