@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"08_Interior",
-    "path":"folders/Sprites/Car_Restoring/08_Interior.yy",
+    "name":"07_Interior",
+    "path":"folders/Sprites/Car_Restoring/07_Interior.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

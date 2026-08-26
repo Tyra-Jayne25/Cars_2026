@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"04_Fuel",
-    "path":"folders/Sprites/Car_Restoring/04_Fuel.yy",
+    "name":"03_Fuel",
+    "path":"folders/Sprites/Car_Restoring/03_Fuel.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

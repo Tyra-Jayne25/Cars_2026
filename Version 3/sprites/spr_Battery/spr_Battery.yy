@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"05_Electrical",
-    "path":"folders/Sprites/Car_Restoring/05_Electrical.yy",
+    "name":"04_Electrical",
+    "path":"folders/Sprites/Car_Restoring/04_Electrical.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

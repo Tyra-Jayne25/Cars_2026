@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"06_Brakes",
-    "path":"folders/Sprites/Car_Restoring/06_Brakes.yy",
+    "name":"05_Brakes",
+    "path":"folders/Sprites/Car_Restoring/05_Brakes.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
