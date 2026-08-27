@@ -6,8 +6,8 @@
   "name":"Obj_InteriorComplete",
   "overriddenProperties":[],
   "parent":{
-    "name":"08_Interior",
-    "path":"folders/Objects/Cars/Restoration/08_Interior.yy",
+    "name":"06_Interior",
+    "path":"folders/Objects/Cars/Restoration/06_Interior.yy",
   },
   "parentObjectId":null,
   "persistent":false,

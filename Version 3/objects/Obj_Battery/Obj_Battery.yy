@@ -6,8 +6,8 @@
   "name":"Obj_Battery",
   "overriddenProperties":[],
   "parent":{
-    "name":"05_Electrical",
-    "path":"folders/Objects/Cars/Restoration/05_Electrical.yy",
+    "name":"03_Electrical",
+    "path":"folders/Objects/Cars/Restoration/03_Electrical.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -2,33 +2,27 @@
   "$GMSprite":"v2",
   "%Name":"spr_1969FordMustangFastback",
   "bboxMode":0,
-  "bbox_bottom":442,
-  "bbox_left":0,
-  "bbox_right":175,
-  "bbox_top":4,
+  "bbox_bottom":336,
+  "bbox_left":17,
+  "bbox_right":171,
+  "bbox_top":8,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"e85a26f7-3534-4b01-a361-52590f95aef5","name":"e85a26f7-3534-4b01-a361-52590f95aef5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"1af90b02-4ce9-4a9c-abe1-51ac746f9f06","name":"1af90b02-4ce9-4a9c-abe1-51ac746f9f06","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"19e7acbd-0702-4701-bc0d-aa17cc60c5c3","name":"19e7acbd-0702-4701-bc0d-aa17cc60c5c3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"21924aa1-3cf0-4eb0-8f0e-f576f227c4ac","name":"21924aa1-3cf0-4eb0-8f0e-f576f227c4ac","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"f70e9c2a-c913-4364-93b7-d40e7581b895","name":"f70e9c2a-c913-4364-93b7-d40e7581b895","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"0f5f94b8-1b40-41a0-ba9f-0d59ee59470a","name":"0f5f94b8-1b40-41a0-ba9f-0d59ee59470a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"b22f46c9-c4fe-458b-8911-df0c90972234","name":"b22f46c9-c4fe-458b-8911-df0c90972234","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"b4b9611f-23e6-4146-bda0-ee88d4076d32","name":"b4b9611f-23e6-4146-bda0-ee88d4076d32","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"5663507f-2088-4584-b983-ce1985b3928b","name":"5663507f-2088-4584-b983-ce1985b3928b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"f74ff09c-dbed-4366-9bbf-7b06e1d14a7b","name":"f74ff09c-dbed-4366-9bbf-7b06e1d14a7b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8bb3c62f-6fac-4225-9094-9dcf916cf948","name":"8bb3c62f-6fac-4225-9094-9dcf916cf948","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1a64f8a9-aed4-4680-9c52-b033370b568e","name":"1a64f8a9-aed4-4680-9c52-b033370b568e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"062819f1-794f-4a98-804c-1a55a035e485","name":"062819f1-794f-4a98-804c-1a55a035e485","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"08d05ef2-707a-4fc4-916e-e5aa9b20e33a","name":"08d05ef2-707a-4fc4-916e-e5aa9b20e33a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":443,
+  "height":340,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"9927356b-4f95-4ab4-8591-cdae4b50685a","blendMode":0,"displayName":"default","isLocked":false,"name":"9927356b-4f95-4ab4-8591-cdae4b50685a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"a97b32e1-c6ec-4fdb-a544-948331f13702","blendMode":0,"displayName":"default","isLocked":false,"name":"a97b32e1-c6ec-4fdb-a544-948331f13702","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_1969FordMustangFastback",
   "nineSlice":null,
@@ -58,7 +52,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":10.0,
+    "length":4.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -78,35 +72,17 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e85a26f7-3534-4b01-a361-52590f95aef5","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1d80ee4a-cd32-40f1-a7a6-3d4f9995da0e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8bb3c62f-6fac-4225-9094-9dcf916cf948","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"43d76bcb-99a6-46da-9d84-a24162367eda","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1af90b02-4ce9-4a9c-abe1-51ac746f9f06","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fad178f3-aed6-41cf-86c2-93783e867942","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a64f8a9-aed4-4680-9c52-b033370b568e","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8d9f07ee-7226-4177-89e4-6190ec7cbb02","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"19e7acbd-0702-4701-bc0d-aa17cc60c5c3","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c7169c92-182a-4d54-b3f2-e9ec296e5c9a","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"062819f1-794f-4a98-804c-1a55a035e485","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4bc0bece-10e9-4d6b-b1ec-be74941c456b","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"21924aa1-3cf0-4eb0-8f0e-f576f227c4ac","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a9e926b6-a9b9-4914-9988-ce49d3755e39","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f70e9c2a-c913-4364-93b7-d40e7581b895","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"975effbe-f9d5-44ae-91a9-cbc083429630","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0f5f94b8-1b40-41a0-ba9f-0d59ee59470a","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"72710add-6fca-429b-88b3-3ea3314073ef","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b22f46c9-c4fe-458b-8911-df0c90972234","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"30ad720b-f3d0-4ace-9afd-3d7a7b491868","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b4b9611f-23e6-4146-bda0-ee88d4076d32","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2de59ea4-b16a-433a-9317-1835039bc6e0","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5663507f-2088-4584-b983-ce1985b3928b","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d117685a-ffde-4522-b1c4-047b71869f74","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f74ff09c-dbed-4366-9bbf-7b06e1d14a7b","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"545ab975-1c94-4cec-acc3-56c73bb938f9","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"08d05ef2-707a-4fc4-916e-e5aa9b20e33a","path":"sprites/spr_1969FordMustangFastback/spr_1969FordMustangFastback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b83a8044-1422-466b-bd0b-b8c834a101b3","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -122,5 +98,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":176,
+  "width":181,
 }

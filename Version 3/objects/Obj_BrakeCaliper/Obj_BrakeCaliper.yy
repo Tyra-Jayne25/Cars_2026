@@ -6,8 +6,8 @@
   "name":"Obj_BrakeCaliper",
   "overriddenProperties":[],
   "parent":{
-    "name":"06_Brakes",
-    "path":"folders/Objects/Cars/Restoration/06_Brakes.yy",
+    "name":"04_Brakes",
+    "path":"folders/Objects/Cars/Restoration/04_Brakes.yy",
   },
   "parentObjectId":null,
   "persistent":false,

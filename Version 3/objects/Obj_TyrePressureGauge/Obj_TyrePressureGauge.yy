@@ -6,8 +6,8 @@
   "name":"Obj_TyrePressureGauge",
   "overriddenProperties":[],
   "parent":{
-    "name":"07_Wheels_Tyres",
-    "path":"folders/Objects/Cars/Restoration/07_Wheels_Tyres.yy",
+    "name":"05_Wheels_Tyres",
+    "path":"folders/Objects/Cars/Restoration/05_Wheels_Tyres.yy",
   },
   "parentObjectId":null,
   "persistent":false,

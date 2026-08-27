@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"06_WheelsTyres",
-    "path":"folders/Sprites/Car_Restoring/06_WheelsTyres.yy",
+    "name":"05_WheelsTyres",
+    "path":"folders/Sprites/Car_Restoring/05_WheelsTyres.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
