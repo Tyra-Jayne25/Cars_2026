@@ -1,2 +1,2 @@
-image_index = global.brake_stage
+image_index = 0
 image_speed = 0

@@ -10,3 +10,7 @@ image_yscale = 0.55
 
 image_speed = 0
 
+if (!variable_global_exists("restoration_stage"))
+{
+    global.restoration_stage = 0
+}

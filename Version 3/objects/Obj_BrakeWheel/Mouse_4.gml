@@ -1,4 +1,4 @@
-if (global.brake_stage == 4)
+if (global.brake_stage == 3)
 {
-    global.brake_tool = "wheel"
+    global.brake_tool = "wheel";
 }
