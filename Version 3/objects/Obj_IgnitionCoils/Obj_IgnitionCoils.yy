@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_IgnitionCoils",
+    "path":"sprites/spr_IgnitionCoils/spr_IgnitionCoils.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

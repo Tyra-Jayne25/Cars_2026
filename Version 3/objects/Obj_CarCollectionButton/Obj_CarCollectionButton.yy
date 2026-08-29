@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_CarCollectionButton",
-    "path":"sprites/spr_CarCollectionButton/spr_CarCollectionButton.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

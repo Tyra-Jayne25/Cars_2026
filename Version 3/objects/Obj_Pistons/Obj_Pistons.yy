@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"Obj_Pistons",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"Obj_Pistons",
   "overriddenProperties":[],
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_Pistons",
+    "path":"sprites/spr_Pistons/spr_Pistons.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

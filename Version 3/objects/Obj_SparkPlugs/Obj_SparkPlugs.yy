@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_SparkPlugs",
+    "path":"sprites/spr_SparkPlugs/spr_SparkPlugs.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
