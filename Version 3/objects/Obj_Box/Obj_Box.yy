@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_BrakeCaliper",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_Box",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_BrakeCaliper",
+  "name":"Obj_Box",
   "overriddenProperties":[],
   "parent":{
     "name":"04_Brakes",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_BrakeCaliper",
-    "path":"sprites/spr_BrakeCaliper/spr_BrakeCaliper.yy",
+    "name":"spr_partsbox_1",
+    "path":"sprites/spr_partsbox_1/spr_partsbox_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

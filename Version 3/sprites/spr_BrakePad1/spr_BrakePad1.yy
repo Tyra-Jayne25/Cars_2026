@@ -1,27 +1,27 @@
 {
   "$GMSprite":"v2",
-  "%Name":"spr_BrakeRotor",
+  "%Name":"spr_BrakePad1",
   "bboxMode":0,
   "bbox_bottom":723,
-  "bbox_left":19,
-  "bbox_right":614,
-  "bbox_top":90,
+  "bbox_left":495,
+  "bbox_right":1188,
+  "bbox_top":49,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"69fe5f2e-8072-49b2-804c-bacc056799e8","name":"69fe5f2e-8072-49b2-804c-bacc056799e8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"adfabe0a-0f3a-4235-97a3-166953f003a3","name":"adfabe0a-0f3a-4235-97a3-166953f003a3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":724,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"a99711eb-cf34-4629-a5bc-5d5f8db117ad","blendMode":0,"displayName":"default","isLocked":false,"name":"a99711eb-cf34-4629-a5bc-5d5f8db117ad","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"2ac2b886-9527-4ef8-8949-64c73f457d55","blendMode":0,"displayName":"default","isLocked":false,"name":"2ac2b886-9527-4ef8-8949-64c73f457d55","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_BrakeRotor",
+  "name":"spr_BrakePad1",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"spr_BrakeRotor",
+    "%Name":"spr_BrakePad1",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_BrakeRotor",
+    "name":"spr_BrakePad1",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"69fe5f2e-8072-49b2-804c-bacc056799e8","path":"sprites/spr_BrakeRotor/spr_BrakeRotor.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"90a6b814-11c8-4106-941a-49a6f7f56cef","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"adfabe0a-0f3a-4235-97a3-166953f003a3","path":"sprites/spr_BrakePad1/spr_BrakePad1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"332f603b-7a55-4f59-9a55-adf91d67f8bd","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
