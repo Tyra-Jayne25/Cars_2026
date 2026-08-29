@@ -7,3 +7,6 @@ image_speed = 0
 
 image_xscale = 0.55
 image_yscale = 0.55
+
+image_speed = 0
+

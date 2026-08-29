@@ -1,0 +1,1 @@
+global.body_tool = "door"

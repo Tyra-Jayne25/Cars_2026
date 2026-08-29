@@ -17,8 +17,6 @@ if (room == Rm_InsideJunkyard)
     // Tell the game the car is being transferred
     global.car_moving = true
 
-    // Remove this Mustang from the junkyard
-    instance_destroy()
 }
 
             // CHECK WHICH GARAGE PLOT IS FREE
@@ -35,6 +33,18 @@ if (room == Rm_InsideJunkyard)
 
             else if (!global.plot2_occupied)
             {
+				
+				
+					image_speed = 0
+
+if (global.restoration_stage >= 1)
+{
+    image_index = 1
+}
+else
+{
+    image_index = 0
+}
                 global.selected_car = "Mustang"
                 global.selected_plot = 2
                 global.plot2_occupied = true
@@ -44,4 +54,6 @@ if (room == Rm_InsideJunkyard)
             }
         }
     }
+
+
 	
